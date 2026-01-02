@@ -64,16 +64,11 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 300+ | Knight Rank |
-| **CodeChef** | 567 | 1601 |
-| **CodeForces** | 136 | 969 |
-| **GeeksForGeeks** | 65+ | - |
+| **LeetCode** | 140+ | 1,431 |
+| **CodeChef** | 664 | 1338 |
+| **CodeForces** | 30+ | 1120 |
+| **GeeksForGeeks** | 5+ | - |
 
-###  **Hackathon Achievements**
-- **1st Place** - CodeSmash (Inter-college DSA Hackathon)
-- 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru
-
----
 
 ##  GitHub Analytics
 
